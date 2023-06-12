@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.explanation {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.explanation img {
+.service img {
     max-height: 200px;
 }
 
-.explanation h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
