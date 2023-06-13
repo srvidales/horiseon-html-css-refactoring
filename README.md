@@ -5,14 +5,14 @@ The challenge itself can be found [here](https://courses.bootcampspot.com/course
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Getting Started](#getting-started)
 - [Installing](#installing)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
 - [Contributing](#contributing)
 
 ## About
-The purpose of this challenge is to get familiarize the student with the refactoring of HTML and CSS as well as working inside a Git Repository.
+The purpose of this challenge is to familiarize the student with the refactoring of HTML and CSS as well as working inside a Git Repository.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
