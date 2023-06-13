@@ -8,6 +8,7 @@ The challenge itself can be found [here](https://courses.bootcampspot.com/course
 - [Getting Started](#getting_started)
 - [Installing](#installing)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 
 ## About
@@ -23,7 +24,13 @@ git clone git@github.com:srvidales/week01-challenge.git
 No installation required.
 
 ## Usage
-In your favorite editor open the repo directory and locate the index.html. From the editor launch your favorite browser. Inspect the page with development tools if necessary.
+In your favorite editor open the directory where you cloned the repo and locate the index.html file. From the editor launch your favorite browser.
+Inspect the page with development tools as necessary.
+Additionally, the repo is deployed to GitHub Pages.
+It can be found here: https://srvidales.github.io/week01-challenge/.
+
+## Screenshot
+Screenshot can be found here: https://github.com/srvidales/week01-challenge/blob/main/screenshot.png
 
 ## Contributing
 Sergio Vidales Perez <srvidales@gmail.com>
