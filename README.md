@@ -32,5 +32,7 @@ It can be found here: https://srvidales.github.io/week01-challenge/.
 ## Screenshot
 Screenshot can be found here: https://github.com/srvidales/week01-challenge/blob/main/screenshot.png
 
+![screenshot](./screenshot.png)
+
 ## Contributing
 Sergio Vidales Perez <srvidales@gmail.com>
